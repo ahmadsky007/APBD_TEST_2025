@@ -1,3 +1,4 @@
+using namespace WebApplication1;
 public class Service
 {
     public int ServiceId { get; set; }

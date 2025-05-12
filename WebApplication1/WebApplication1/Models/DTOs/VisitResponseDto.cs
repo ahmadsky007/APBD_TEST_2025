@@ -1,3 +1,4 @@
+using namespace WebApplication1;
 public class VisitResponseDto
 {
     public DateTime Date { get; set; }

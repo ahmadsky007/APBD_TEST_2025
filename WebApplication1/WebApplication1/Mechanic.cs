@@ -1,3 +1,4 @@
+using namespace WebApplication1;
 public class Mechanic
 {
     public int MechanicId { get; set; }

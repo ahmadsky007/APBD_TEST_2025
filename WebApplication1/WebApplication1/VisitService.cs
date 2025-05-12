@@ -1,3 +1,4 @@
+using namespace WebApplication1;
 public class VisitsService : IVisitsService
 {
     private readonly WorkshopContext _context;

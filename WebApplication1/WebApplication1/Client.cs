@@ -1,3 +1,4 @@
+using namespace WebApplication1;
 public class Client
 {
     public int ClientId { get; set; }

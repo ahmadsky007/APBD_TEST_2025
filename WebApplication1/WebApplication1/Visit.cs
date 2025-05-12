@@ -1,3 +1,4 @@
+using namespace WebApplication1;
 public class Visit
 {
     public int VisitId { get; set; }
