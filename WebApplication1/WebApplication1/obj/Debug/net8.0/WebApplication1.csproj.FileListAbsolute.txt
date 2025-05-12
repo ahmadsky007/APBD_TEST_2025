@@ -1,0 +1,8 @@
+/Users/ahmadjon/Desktop/2025/APBD_TEST_2025/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/Users/ahmadjon/Desktop/2025/APBD_TEST_2025/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadjon/Desktop/2025/APBD_TEST_2025/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/Users/ahmadjon/Desktop/2025/APBD_TEST_2025/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/Users/ahmadjon/Desktop/2025/APBD_TEST_2025/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/ahmadjon/Desktop/2025/APBD_TEST_2025/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/Users/ahmadjon/Desktop/2025/APBD_TEST_2025/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Users/ahmadjon/Desktop/2025/APBD_TEST_2025/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.sourcelink.json
