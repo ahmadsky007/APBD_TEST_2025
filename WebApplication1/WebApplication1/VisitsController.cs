@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using namespace WebApplication1;
+
 [ApiController]
 [Route("api/visits")]
 public class VisitsController : ControllerBase
